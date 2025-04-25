@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/inamtech-dev-school/static/css/main.c0d429f3.css",
+    "main.js": "/inamtech-dev-school/static/js/main.7710576d.js",
+    "static/media/students.svg": "/inamtech-dev-school/static/media/students.9404f2f89ab8934e529d47fe3e48f9f1.svg",
+    "static/media/subjects.svg": "/inamtech-dev-school/static/media/subjects.013b9ea5daf1ce262cdf1faf054c2b50.svg",
+    "static/media/assignment.svg": "/inamtech-dev-school/static/media/assignment.bc61fe3453a587ff7d3028a4494ad169.svg",
+    "static/media/classroom.png": "/inamtech-dev-school/static/media/classroom.f472ff2cd754d14669f3.png",
+    "static/media/time.svg": "/inamtech-dev-school/static/media/time.4385c93898939eb79375d3cdc30644aa.svg",
+    "static/media/designlogin.jpg": "/inamtech-dev-school/static/media/designlogin.3cac939f195a9e698ba4.jpg",
+    "index.html": "/inamtech-dev-school/index.html",
+    "main.c0d429f3.css.map": "/inamtech-dev-school/static/css/main.c0d429f3.css.map",
+    "main.7710576d.js.map": "/inamtech-dev-school/static/js/main.7710576d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c0d429f3.css",
+    "static/js/main.7710576d.js"
+  ]
+}
