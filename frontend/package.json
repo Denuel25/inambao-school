@@ -1,7 +1,12 @@
 {
   "name": "frontend",
   "version": "0.1.0",
+  "homepage": "https://Denuel25.github.io/inamtech-dev-school",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Denuel25/inamtech-dev-school.git"
+  },
   "dependencies": {
     "@emotion/react": "^11.10.6",
     "@emotion/styled": "^11.10.6",
@@ -25,8 +30,8 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "predeploy": "npm run build",
+    "deploy": "gh-pages -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -47,7 +52,7 @@
     ]
   },
   "devDependencies": {
-    "gh-pages": "^6.3.0",
+    "gh-pages": "^5.0.0",
     "webpack": "^5.81.0"
   }
 }
